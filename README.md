@@ -10,19 +10,19 @@ Repository ini berisi proyek Analisis Sentimen dan Pemodelan Perilaku Pelanggan 
 Penurunan pasar smartphone pada tahun 2023, Semester I (6%) dan Semester II (10%).
 Sebagai tim data di perusahaan distributor handphone. Maka dari itu perusahaan ingin mengetahui penyebab penurunan tersebut melalui analisis sentimen pada review yang diberikan oleh pelanggan untuk mengetahui penyebab tersebut yang mempengaruhi customer experience sehingga dapat merancang strategi untuk meningkatkan penjualan.
 ## File yang Tersedia 📂
-EDA.ipynb → Notebook untuk melakukan Eksplorasi Data (EDA) pada dataset penjualan dan ulasan produk. Berisi analisis statistik dasar, visualisasi data, serta pemahaman awal terhadap dataset.
-LLM.ipynb → Notebook yang berisi implementasi Large Language Model (LLM).
-Machine_Learning_Model.ipynb → Notebook yang berisi proses pembangunan model Machine Learning, 
-NLP_Model.ipynb → Notebook untuk melakukan Analisis Sentimen menggunakan NLP, termasuk preprocessing teks, tokenisasi, dan klasifikasi sentimen berdasarkan ulasan pelanggan.
-analyst.csv → Dataset yang berisi data yang digunakan untuk kebutuhan analisis spesifik.
-data_final.csv → Dataset hasil preprocessing akhir yang telah dibersihkan dan siap digunakan untuk modeling serta analisis lebih lanjut.
-reviews_1.csv → Dataset ulasan positif dengan rating bintang 4-5.
-reviews_2.csv → Dataset ulasan netral dengan rating bintang 3.
-reviews_3.csv → Dataset ulasan negatif dengan rating bintang 1-2.
-scientist.csv → Dataset yang berisi informasi terkait yang diperuntukan untuk data scientist guna melatih model.
-scraping.ipynb → Notebook yang digunakan untuk web scraping data ulasan pelanggan dari tokopedia menggunakan pustaka Python seperti BeautifulSoup atau Scrapy.
-dt_model.pkl → File yang berisi model terbaik yang telah dilatih dan disimpan untuk digunakan kembali dalam prediksi.
-README.md → Dokumentasi utama proyek, menjelaskan tujuan, metode, dan cara menjalankan kode dalam repository ini.
+- EDA.ipynb → Notebook untuk melakukan Eksplorasi Data (EDA) pada dataset penjualan dan ulasan produk. Berisi analisis statistik dasar, visualisasi data, serta pemahaman awal terhadap dataset.
+- LLM.ipynb → Notebook yang berisi implementasi Large Language Model (LLM).
+- Machine_Learning_Model.ipynb → Notebook yang berisi proses pembangunan model Machine Learning, 
+- NLP_Model.ipynb → Notebook untuk melakukan Analisis Sentimen menggunakan NLP, termasuk preprocessing teks, tokenisasi, dan klasifikasi sentimen berdasarkan ulasan pelanggan.
+- analyst.csv → Dataset yang berisi data yang digunakan untuk kebutuhan analisis spesifik.
+- data_final.csv → Dataset hasil preprocessing akhir yang telah dibersihkan dan siap digunakan untuk modeling serta analisis lebih lanjut.
+- reviews_1.csv → Dataset ulasan positif dengan rating bintang 4-5.
+- reviews_2.csv → Dataset ulasan netral dengan rating bintang 3.
+- reviews_3.csv → Dataset ulasan negatif dengan rating bintang 1-2.
+- scientist.csv → Dataset yang berisi informasi terkait yang diperuntukan untuk data scientist guna melatih model.
+- scraping.ipynb → Notebook yang digunakan untuk web scraping data ulasan pelanggan dari tokopedia menggunakan pustaka Python seperti BeautifulSoup atau Scrapy.
+- dt_model.pkl → File yang berisi model terbaik yang telah dilatih dan disimpan untuk digunakan kembali dalam prediksi.
+- README.md → Dokumentasi utama proyek, menjelaskan tujuan, metode, dan cara menjalankan kode dalam repository ini.
 
 ## Tujuan Proyek
 - Menganalisis sentimen pelanggan terhadap produk berdasarkan ulasan yang diberikan.
