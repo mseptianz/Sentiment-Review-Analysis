@@ -30,11 +30,11 @@ Sebagai tim data di perusahaan distributor handphone. Maka dari itu perusahaan i
 - Memberikan rekomendasi strategis guna meningkatkan penjualan berdasarkan hasil analisis.
 
 ## Teknologi dan Metode yang Digunakan
-✅ Python – Pemrosesan dan analisis data
-✅ LLM (Large Language Model) – Memahami konteks ulasan dengan kecerdasan buatan
-✅ NLP (Natural Language Processing) – Pemrosesan teks untuk analisis sentimen
-✅ Machine Learning – Model prediksi perilaku pelanggan
-✅ Streamlit – Dashboard interaktif untuk visualisasi hasil analisis
+- ✅ Python – Pemrosesan dan analisis data
+- ✅ LLM (Large Language Model) – Memahami konteks ulasan dengan kecerdasan buatan
+- ✅ NLP (Natural Language Processing) – Pemrosesan teks untuk analisis sentimen
+- ✅ Machine Learning – Model prediksi perilaku pelanggan
+- ✅ Streamlit – Dashboard interaktif untuk visualisasi hasil analisis
 
 ## Dependencies ⚙️
 - ![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
